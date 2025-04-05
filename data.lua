@@ -83,4 +83,4 @@ return {
             ["Furniture"] = 1,
             ["Principal's Home Stage 2"] = 1,
             ["Samuel's House Stage 2"] = 1
-        },
+        }
